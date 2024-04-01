@@ -1,0 +1,26 @@
+{
+    "wallet_addresses": [
+    {   
+        "network": "ETHEREUM",
+        "address": ["0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270", "0x4c569c1e541A19132AC893748E0ad54C7c989FF4"],
+        "url_api": "https://api.etherscan.io/api"
+    },
+    {
+        "network": "POLYGON",
+        "address": ["0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270", "0x4c569c1e541A19132AC893748E0ad54C7c989FF4"],
+        "url_api": "https://api.polygonscan.com/api"
+    }
+],
+    "token_addresses": [
+        {
+            "network": "ETHEREUM",
+            "address_contract": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+            "address_wallet": "0x480234599362dC7a76cd99D09738A626F6d77e5F"
+        },
+        {   
+            "network": "POLYGON",
+            "address_contract": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
+            "address_wallet": "0xf79c9CaAd6c7fCCf45d65992D72c585954B8d7fC"
+        }
+]
+}

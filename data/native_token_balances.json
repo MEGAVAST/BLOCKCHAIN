@@ -1,0 +1,30 @@
+{
+    "ETHEREUM": {
+        "status": "1",
+        "message": "OK",
+        "result": [
+            {
+                "account": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+                "balance": "1.691919857047735649"
+            },
+            {
+                "account": "0x4c569c1e541A19132AC893748E0ad54C7c989FF4",
+                "balance": "0.4540882879396993"
+            }
+        ]
+    },
+    "POLYGON": {
+        "status": "1",
+        "message": "OK",
+        "result": [
+            {
+                "account": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+                "balance": "167747064.781939283045063165"
+            },
+            {
+                "account": "0x4c569c1e541A19132AC893748E0ad54C7c989FF4",
+                "balance": "29470694.606007361604604922"
+            }
+        ]
+    }
+}

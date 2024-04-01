@@ -1,0 +1,12 @@
+{
+    "ETHEREUM": {
+        "address": "0x480234599362dC7a76cd99D09738A626F6d77e5F",
+        "symbol": "BNB",
+        "balance": "30644.46001861"
+    },
+    "POLYGON": {
+        "address": "0xf79c9CaAd6c7fCCf45d65992D72c585954B8d7fC",
+        "symbol": "BNB",
+        "balance": "2.69094477"
+    }
+}
